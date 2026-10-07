@@ -1,6 +1,6 @@
 cask "sudal" do
-  version "0.11.12"
-  sha256 "3d9bf8190272cb99a76ca8f39741dc8dcb6db8e3e1c6781b27acdd1e3b619c67"
+  version "0.11.13"
+  sha256 "5b7167d06d2966ee4d9247f6ac819aee1a4401a9367963b2d9df4fbc7c918d01"
 
   url "https://github.com/97kim/sudal/releases/download/v#{version}/sudal-#{version}-arm64.dmg"
   name "Sudal"
